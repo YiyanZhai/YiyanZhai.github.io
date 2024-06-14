@@ -11,8 +11,8 @@ locale                   : "en-US"
 title                    : "Yiyan Zhai"
 title_separator          : "-"
 name                     : &name "Yiyan Zhai"
-description              : &description "personal description"
-url                      : https://YiyanZhai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Yiyan Zhai"
+url                      : https://yiyanzhai.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YiyanZhai/YiyanZhai.github.io"
 
@@ -21,7 +21,7 @@ repository               : "YiyanZhai/YiyanZhai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_8882.png"
   name             : "Your Sidebar Name"
   pronouns         : "she/her"  
   bio              : "Undergrad research @ CMU"
