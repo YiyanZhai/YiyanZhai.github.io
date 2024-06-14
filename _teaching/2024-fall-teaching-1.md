@@ -4,7 +4,7 @@ collection: teaching
 # type: "Undergraduate course"
 permalink: /teaching/2024-fall-teaching-1
 venue: "Carnegie Mellon University, Machine Learning Department"
-date: Fall 2024
+date: 2024-09-01
 # location: "City, Country"
 ---
 

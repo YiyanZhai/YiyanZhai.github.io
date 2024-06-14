@@ -4,7 +4,7 @@ collection: teaching
 # type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-1
 venue: "Carnegie Mellon University, Department of Mathematical Sciences"
-date: Fall 2023
+date: 2023-09-01
 # location: "City, Country"
 ---
 
