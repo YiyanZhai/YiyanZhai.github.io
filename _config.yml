@@ -22,11 +22,11 @@ repository               : "YiyanZhai/YiyanZhai.github.io"
 author:
   # Biographic information
   avatar           : "IMG_8882.png"
-  name             : "Yiyan Zhai (yì yán)"
+  name             : "Yiyan Zhai (pinyin: zhái yì yán)"
   pronouns         : "she/her"
-  bio              : "Undergrad research @ CMU"
+  bio              : "Undergrad researcher @ CMU"
   location         : "Pittsburgh, PA"
-  # employer         : "Red Brick University"
+  employer         : "Carnegie Mellon University"
   uri              : # URL
   email            : "yiyanz@andrew.cmu.edu" 
 

@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: 
 title: "Hi, I'm Yiyan Zhai :)"
 author_profile: true
 redirect_from: 
