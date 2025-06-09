@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Yiyan Zhai"
-description              : &description "a senior at Carnegie Mellon University"
+description              : &description "working on making Machine Learning accessible to everyone"
 url                      : https://yiyanzhai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YiyanZhai/YiyanZhai.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "IMG_8882.png"
   name             : "Yiyan Zhai (zhái yì yán)"
   pronouns         : "she/her"
-  bio              : "Undergrad researcher @ CMU"
+  bio              : "Research Assistant @ CMU"
   location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
   uri              : # URL
-  email            : "yiyanz@andrew.cmu.edu" 
+  # email            : "" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
