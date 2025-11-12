@@ -1,7 +1,7 @@
 ---
 title: "Token Prediction as Implicit Classification to Identify LLM-Generated Text"
 collection: publications
-permalink: /publication/2023-12-paper-01
+permalink: /publication/2023-12-gpt-sentinel
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-12-06
 venue: 'Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing'
