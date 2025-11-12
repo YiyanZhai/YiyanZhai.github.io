@@ -14,6 +14,6 @@ I have been working with with Prof. [Tianqi Chen](https://tqchen.com/) at CMU Ca
 * **[WebLLM Assistant](https://github.com/mlc-ai/web-llm-assistant)**, which integrates Overleaf and Google Workspace with in-browser agents using [WebLLM](https://github.com/mlc-ai/web-llm).
 <!-- * [WebLLM](https://github.com/mlc-ai/web-llm): enabling local LLM inference directly in the browser. -->
 
-I am also fortunate to collaborate with Prof. [Juncheng Yang](https://junchengyang.com/) on:
+I am also fortunate to collaborate with Prof. [Juncheng Yang](https://junchengyang.com/) at Harvard SEAS on:
 * **Cache replacement algorithms** for real-world enterprise storage systems (VMware vSAN)
 * **Resilient routing for LLM inference**
