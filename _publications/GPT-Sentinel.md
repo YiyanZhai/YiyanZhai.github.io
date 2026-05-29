@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-12-gpt-sentinel
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-12-06
-venue: 'Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing'
+venue: 'EMNLP 2023'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://aclanthology.org/2023.emnlp-main.810.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
