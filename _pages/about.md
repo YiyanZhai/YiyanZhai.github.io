@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I will be **joining CMU Catalyst Group this Fall to start my PhD with Prof. [Tianqi Chen](https://tqchen.com/)**! I received my B.S. in Computer Science from Carnegie Mellon University. My research interests lie at building efficient and scalable ML systems.
+I am a **first-year PhD student at Carnegie Mellon University in the Catalyst Group, advised by Prof. [Tianqi Chen](https://tqchen.com/)**. I received my B.S. in Computer Science from Carnegie Mellon University. My research interests lie in building efficient and scalable ML systems.
 
 I have been working with Prof. [Tianqi Chen](https://tqchen.com/) at CMU Catalyst Group on:
+* **[TIRx Harness](https://github.com/mlc-ai/TIRx-harness)**, an open compiler harness for agentic GPU programming that combines a minimal compiler foundation, a kernel knowledge base, analysis tools, and a benchmark server to help agents develop correct, fast GPU kernels. [[Blog](https://blog.mlc.ai/2026/09/29/tirx-harness-an-open-compiler-harness-for-agentic-gpu-programming)]
 * **[FlashInfer-Bench](https://github.com/flashinfer-ai/flashinfer-bench)**, a kernel benchmarking loop that goes from kernel generation → evaluation → drop-in replacement in serving stacks (FlashInfer/SGLang/vLLM).
 * **[WebLLM Assistant](https://github.com/mlc-ai/web-llm-assistant)**, which integrates Overleaf and Google Workspace with in-browser agents using [WebLLM](https://github.com/mlc-ai/web-llm).
 <!-- * [WebLLM](https://github.com/mlc-ai/web-llm): enabling local LLM inference directly in the browser. -->
