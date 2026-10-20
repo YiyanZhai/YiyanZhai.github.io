@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Yiyan Zhai"
 title_separator          : "-"
 name                     : &name "Yiyan Zhai"
 description              : &description "building systems for fast, cost-efficient LLM inference"
@@ -22,8 +22,8 @@ repository               : "YiyanZhai/YiyanZhai.github.io"
 author:
   # Biographic information
   avatar           : "IMG_0517.jpg"
-  name             : "Yiyan Zhai (zhái yì yán)"
-  pronouns         : "she/her"
+  name             : "Yiyan Zhai"
+  pronouns         : ""
   bio              : "First-year PhD Student @ CMU"
   location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
